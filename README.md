@@ -1,7 +1,7 @@
 <div align="center">
 
   
-  <h1>💫I am Park Yeojun!
+  <h1>💫 I am Park Yeojun!
     <br/>
     <br/>
     who want to be better FrontEnd Programmer 🔥
