@@ -3,7 +3,9 @@
   
   <h1>💫I am Park Yeojun!
     <br/>
+    <br/>
     who want to be better FrontEnd Programmer 🔥
+    <br/>
     <br/>
     <br/>
     💻 📱 I'm still W0RK1NG N0W!!
