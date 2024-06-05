@@ -2,12 +2,12 @@
 
   
 ```
-  const MILGAM = {
+const MILGAM = {
     name: "Yeojun Park",
     age: 19,
     tech: "FE"
-  }
-  console.log(MILGAM)
+}
+console.log(MILGAM)
 ```
   
 
