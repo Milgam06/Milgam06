@@ -9,10 +9,7 @@
     <br/>
     💻 📱 I'm still W0RK1NG N0W!!
   </h1>
-  
-  <br/>
-  <br/>
-  <br/>
+
   <hr/>
   <h2>🌈Front Tech!</h2>
   
