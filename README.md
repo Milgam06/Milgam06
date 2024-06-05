@@ -9,9 +9,8 @@
   }
   console.log(MILGAM)
 </pre>
-  
-  <h2>🌈Front Tech!</h2>
   <hr/>
+  <h2>🌈Front Tech!</h2>
   
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
