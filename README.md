@@ -26,8 +26,8 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS"/>
   
-  
-
+<br/>
+<br/>
 <hr/>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milgam06&hide=contribs,prs&show_icons=true&theme=transparent)
