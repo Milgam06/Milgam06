@@ -31,6 +31,6 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milgam06&hide=contribs,prs&show_icons=true&theme=transparent)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milgam06&hide_progress=true)
 
 </div>
