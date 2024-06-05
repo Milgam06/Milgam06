@@ -1,9 +1,8 @@
 <div align="center">
 
   
-<h1>💫I am Park Yeojun!</h1>
-<h2>who want to be better FrontEnd Programmer 🔥</h2>
-<h2>So I'm still W0RK1NG N0W 💻 📱</h2>
+<h1>💫I am Park Yeojun!</h1><h2>who want to be better FrontEnd Programmer 🔥</h2><h2>So I'm still W0RK1NG N0W 💻 📱</h2>
+
 
   <hr/>
   <h2>🌈Front Tech!</h2>
