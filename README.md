@@ -7,9 +7,7 @@
     age: 19,
     tech: "FE"
   }
-
   console.log(MILGAM)
-  
 ```
   
 
