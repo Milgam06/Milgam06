@@ -9,8 +9,6 @@
     <br/>
     💻 📱 I'm still W0RK1NG N0W!!
   </h1>
-
-  <hr/>
   <h2>🌈Front Tech!</h2>
   
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
