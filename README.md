@@ -5,7 +5,6 @@
     <br/>
     who want to be better FrontEnd Programmer 🔥
     <br/>
-    <br/>
     <h3>💻 📱 I'm still W0RK1NG N0W!!</h3>
   </h1>
 
