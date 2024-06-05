@@ -10,7 +10,7 @@
     💻 📱 I'M sT!1L W0rK1NG N0w!!!!
   </h1>
   <br/>
-  <h2>🌈Front Tech!</h2>
+  <h1>🌈Front Tech!</h1>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/><br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/>
