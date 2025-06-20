@@ -4,7 +4,7 @@
   <h1>💫 I am Park Yeojun!
     <br/>
     <br/>
-    who want to be better FrontEnd Programmer 🔥
+    who want to be better Full-Stack Programmer 🔥
     <br/>
     <br/>
     💻 📱 I'M sT!1L W0rK1NG N0w!!!!
